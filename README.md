@@ -8,4 +8,4 @@ https://youtu.be/DL3etMYKO78
 https://www.instructables.com/id/Infinity-Clock-Arduino-WS2813-and-DS3231/
 
 
-As Always -- Have Fun!!
+As Always -- Good Luck!!
